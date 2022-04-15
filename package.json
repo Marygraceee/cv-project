@@ -10,7 +10,7 @@
     "react-dom": "^18.0.0",
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4",
-    "homepage": "http://Marygraceee.github.io/cv-project"
+    "homepage": "http://marygraceee.github.io/cv-project"
   },
   "scripts": {
     "start": "react-scripts start",

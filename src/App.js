@@ -113,7 +113,7 @@ getsecondSchoolFinishDate = (educationsecondSchoolFinishDate) =>{
         getsecondSchoolFinishDateFunction={this.getsecondSchoolFinishDate}/>
         <Work/>
         <Skills/>
-        <button onClick={this.consoleLog}>See</button>
+        <button onClick={this.consoleLog}></button>
 
       </div>
     )
